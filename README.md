@@ -2,7 +2,7 @@
 - Achievements Round 1
 - Proof of Work (option 3)
 - Haley Dickson
-- GH pages : 
+- GH pages : https://gingerhale.github.io/cpnt262-achieve1-1/
 
 ## Artibutes
 - Coding Addict - "Javascript Challenges - "Math Sequences" - https://www.youtube.com/watch?v=HoNTMDTufTU&list=PLnHJACx3NwAdQElswAscNtHAZLAQYgpDA&index=2 
