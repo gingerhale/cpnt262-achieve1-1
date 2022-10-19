@@ -1,6 +1,6 @@
 # CPNT262
 - Achievements Round 1
-- Proof of Work (option 3)
+- Proof of Work - Math Sequence Tutorial (option 3)
 - Haley Dickson
 - GH pages : https://gingerhale.github.io/cpnt262-achieve1-1/
 
